@@ -3,4 +3,4 @@ geojson
 geolinks
 ipywidgets
 jupyter_contrib_nbextensions
-jupyterlab-geojson
+# jupyterlab-geojson
